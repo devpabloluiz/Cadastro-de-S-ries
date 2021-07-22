@@ -1,0 +1,16 @@
+C:\Users\Pablo\series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+C:\Users\Pablo\series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+C:\Users\Pablo\series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+C:\Users\Pablo\series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\series\bin\Debug\net5.0\Series.exe
+c:\Users\Pablo\series\bin\Debug\net5.0\Series.deps.json
+c:\Users\Pablo\series\bin\Debug\net5.0\Series.runtimeconfig.json
+c:\Users\Pablo\series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+C:\Users\Pablo\series\bin\Debug\net5.0\Series.dll
+c:\Users\Pablo\series\bin\Debug\net5.0\ref\Series.dll
+C:\Users\Pablo\series\bin\Debug\net5.0\Series.pdb
+C:\Users\Pablo\series\obj\Debug\net5.0\Series.dll
+C:\Users\Pablo\series\obj\Debug\net5.0\ref\Series.dll
+C:\Users\Pablo\series\obj\Debug\net5.0\Series.pdb
+c:\Users\Pablo\series\obj\Debug\net5.0\Series.genruntimeconfig.cache
